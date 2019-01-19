@@ -1,6 +1,11 @@
 # calculator_app
 
-A new Flutter project.
+Small Flutter calculator project.
+Download here [here](https://yadi.sk/d/mWu13aZWXcwsRw)
+
+![Image 1](/Screenshot_1547905798.png)
+
+![Image 2](/Screenshot_1547905819.png)
 
 ## Getting Started
 
