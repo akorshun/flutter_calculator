@@ -3,9 +3,7 @@
 Small Flutter calculator project.
 Download here [here](https://yadi.sk/d/mWu13aZWXcwsRw)
 
-<img src="/Screenshot_1547905798.png" width="300">
-
-<img src="/Screenshot_1547905819.png" width="300">
+<img src="/Screenshot_1547905798.png" width="300"> <img src="/Screenshot_1547905819.png" width="300">
 
 ## Getting Started
 
